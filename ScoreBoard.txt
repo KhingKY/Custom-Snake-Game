@@ -1,0 +1,35 @@
+Player 1 WIN
+Time: 2019-05-28 22:15:33 +0800
+Player 1 Score: 10		Player 2 Score: 70
+PLAYER  2  HIT   ITSELF
+_____________________________________________________________
+Player 1 WIN
+Time: 2019-05-28 22:15:42 +0800
+Player 1 Score: 0		Player 2 Score: 0
+PLAYER 2 HIT THE WALL
+_____________________________________________________________
+Player 1 WIN
+Time: 2019-05-28 22:15:50 +0800
+Player 1 Score: 0		Player 2 Score: 10
+PLAYER 2 HIT THE WALL
+_____________________________________________________________
+Player 2 WIN
+Time: 2019-05-30 21:32:55 +0800
+Player 1 Score: 0		Player 2 Score: 10
+PLAYER 1 HIT THE WALL
+_____________________________________________________________
+Player 1 WIN
+Time: 2019-05-30 21:33:28 +0800
+Player 1 Score: 20		Player 2 Score: 0
+PLAYER 2 HIT THE WALL
+_____________________________________________________________
+Player 2 WIN
+Time: 2019-05-30 21:34:22 +0800
+Player 1 Score: 50		Player 2 Score: 10
+PLAYER 1 HIT THE WALL
+_____________________________________________________________
+Player 2 WIN
+Time: 2019-05-31 10:50:52 +0800
+Player 1 Score: 10		Player 2 Score: 10
+PLAYER 1 HIT THE WALL
+_____________________________________________________________

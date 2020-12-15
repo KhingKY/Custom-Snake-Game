@@ -1,0 +1,7 @@
+6
+Player 1 = Green snake. W = Up, A = Left, S = Down, D = Right
+Player 2 = Blue snake. ↑ = Up, ← = Left, ↓ = Down, → = Right
+TO WIN: Accumulate 100 points OR If enemy snake LOSE.
+TO LOSE: Snake hits the wall OR Snake hits itself
+= Gives player 10 points & speed up both players
+= Makes the snake respawn and score reset to 0
